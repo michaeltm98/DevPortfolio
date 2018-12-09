@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Dev Portfolio</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="about_michael">Hi, I\'m Michael. \nI enjoy web development and app development. \nI am confident with JavaScript, Python, and Java. \nI really want to get into software development.</string>
+    <string name="contact_michael">Cell Phone: 2404630683\nEmail: michaeltm98@gmail.com</string>
+    <string name="skills_michael">Java\nAndroid\nJavascript\nPython</string>
+    <string name="work_michael">January 2018 to Present\nAndroid Developer at Regavi CMS LLC\n\n
+                                May 2018 to August 2018\nWeb Development Intern at CACI BITS\n\n
+                                August 2017 to April 2018\nCrew Leader at the Waring Hall Dining Commons</string>
+</resources>
